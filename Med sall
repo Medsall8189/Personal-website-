@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammad Sow - Persönliche Webseite</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 1rem;
+        }
+        .content {
+            background-color: #fff;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #333;
+            color: #fff;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Muhammad Sow</h1>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>Über mich</h2>
+            <p>Hallo! Mein Name ist Muhammad Sow und ich arbeite als Pflegeassistenz. In meiner Freizeit genieße ich es, Fußball zu spielen und mich fit zu halten.</p>
+            <h2>Beruf</h2>
+            <p>Ich arbeite als Pflegeassistenz und unterstütze das medizinische Personal bei der Betreuung und Pflege von Patienten. Meine Arbeit erfüllt mich, da ich einen positiven Einfluss auf das Leben anderer haben kann.</p>
+            <h2>Hobbys</h2>
+            <p>Fußball ist meine große Leidenschaft. Es hält mich nicht nur körperlich fit, sondern fördert auch Teamgeist und strategisches Denken. Ich spiele regelmäßig mit Freunden und in lokalen Vereinen.</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Muhammad Sow. Alle Rechte vorbehalten.</p>
+    </footer>
+</body>
+</html>
